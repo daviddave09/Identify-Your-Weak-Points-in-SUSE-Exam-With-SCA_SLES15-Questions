@@ -1,0 +1,1 @@
+# Identify-Your-Weak-Points-in-SUSE-Exam-With-SCA_SLES15-Questions
